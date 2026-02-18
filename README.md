@@ -11,7 +11,17 @@ This project simulates a real-world student placement registration system using 
 ## Project Overview
 
 ## 📸 Project Preview
-![Student Form Preview](preview.png)
+## 📸 Project Preview
+
+### 🧑 Personal & Contact Section
+![Preview 1](preview-1.png)
+
+### 🎓 Education Section
+![Preview 2](preview-2.png)
+
+### 💼 Placement & Account Section
+![Preview 3](preview-3.png)
+
 
 The application captures complete student information required for placement processes including:
 
