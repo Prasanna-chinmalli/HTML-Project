@@ -9,6 +9,10 @@
 This project simulates a real-world student placement registration system using structured HTML forms.
 
 ## Project Overview
+
+## 📸 Project Preview
+![Student Form Preview](preview.png)
+
 The application captures complete student information required for placement processes including:
 
 - Personal and demographic details
